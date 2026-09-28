@@ -1,0 +1,12 @@
+{
+  "name": "twa-ficha01",
+  "version": "1.0.0",
+  "description": "TWA Ficha 01 — first ES modules",
+  "scripts": {
+    "app": "node app.js",
+    "api": "node api.js",
+    "rss": "node rss.js"
+  },
+  "license": "ISC",
+  "type": "module"
+}

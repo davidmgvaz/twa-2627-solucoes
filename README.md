@@ -8,6 +8,6 @@
 | Ficha | Tema · Topic | Prazo · Deadline | Pasta · Folder |
 |---|---|---|---|
 | 01 | Ambiente e primeiros módulos · Environment and first modules | 27/09/2026 | [`ficha-01/`](ficha-01/) |
-| 02 | Módulo de catálogo: funções puras, map/filter/reduce, módulos · Catalog module: pure functions, map/filter/reduce, modules | 04/10/2026 | [`ficha-02/`](ficha-02/) |
+| 02 | Módulo de catálogo: funções puras, map/filter/reduce, módulos · Catalog module: pure functions, map/filter/reduce, modules | 06/10/2026 | [`ficha-02/`](ficha-02/) |
 
 Requisitos · Requirements: Node.js 22 LTS, npm 10, Git. Cada pasta tem o seu README com os comandos · each folder's README has the commands.

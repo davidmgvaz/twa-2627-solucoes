@@ -1,0 +1,16 @@
+{
+  "name": "twa-ficha03",
+  "version": "1.0.0",
+  "description": "TWA Ficha 03 — the catalog in the browser (fetch, render(state), DOM)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "node check.js"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}

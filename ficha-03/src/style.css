@@ -1,0 +1,11 @@
+:root { font-family: system-ui, sans-serif; color: #222; background: #fafafa; }
+#app { max-width: 720px; margin: 2rem auto; padding: 0 1rem; }
+#controls { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: .5rem; }
+#controls input, #controls select, #controls button { font: inherit; padding: .4rem .6rem; }
+#status { color: #666; min-height: 1.5em; }
+#list { list-style: none; padding: 0; margin: 0 0 1rem; }
+#list li { padding: .4rem .6rem; border-bottom: 1px solid #ddd; cursor: pointer; }
+#list li:hover { background: #eee; }
+#list li.selected { background: #e8e0ea; font-weight: 600; }
+#detail dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem 1rem; }
+#detail dt { color: #666; }

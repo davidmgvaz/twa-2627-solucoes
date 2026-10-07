@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>twa-ficha03 · catalog</title>
+  </head>
+  <body>
+    <div id="app">
+      <h1>Catalog</h1>
+
+      <!-- controls are STATIC: render() never replaces them, so typing keeps focus -->
+      <form id="controls">
+        <input id="q" type="search" placeholder="Search…" autocomplete="off" />
+        <select id="category"><option value="">All</option></select>
+        <button id="sort" type="button">Price ↓</button>
+      </form>
+
+      <!-- render() rewrites only these three -->
+      <p id="status"></p>
+      <ul id="list"></ul>
+      <section id="detail"></section>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

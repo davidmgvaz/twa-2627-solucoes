@@ -1,0 +1,20 @@
+{
+  "name": "twa-ficha04",
+  "version": "1.0.0",
+  "description": "TWA Ficha 04 — the catalog in Vue (SFC, ref/computed, template)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "node check.js"
+  },
+  "dependencies": {
+    "vue": "^3.5.42"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.8",
+    "vite": "^8.3.0"
+  }
+}

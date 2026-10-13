@@ -1,0 +1,4 @@
+/* global styles only — component styles live in each .vue file (scoped) */
+/* só estilos globais — os de cada componente estão no seu .vue (scoped) */
+:root { font-family: system-ui, sans-serif; color: #222; background: #fafafa; }
+#app { max-width: 720px; margin: 2rem auto; padding: 0 1rem; }

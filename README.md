@@ -12,5 +12,6 @@
 | 03 | O catálogo no browser: fetch, async/await, render(state), DOM · Your catalog in the browser: fetch, async/await, render(state), DOM | 13/10/2026 | [`ficha-03/`](ficha-03/) |
 | 04 | O catálogo em Vue: SFC, ref/computed, template · Your catalog in Vue: SFC, ref/computed, template | 20/10/2026 | [`ficha-04/`](ficha-04/) |
 | 05 | Componentes e formulários: props/emits, formulário com validação, composable `useLoad`, watch · Components and forms: props/emits, a validated form, a `useLoad` composable, watch | 27/10/2026 | [`ficha-05/`](ficha-05/) |
+| 06 | Rotas e paginação: Vue Router, store de módulo, a página no URL · Routes and pagination: Vue Router, a module store, the page in the URL | 03/11/2026 | [`ficha-06/`](ficha-06/) |
 
 Requisitos · Requirements: Node.js 22 LTS, npm 10, Git. Cada pasta tem o seu README com os comandos · each folder's README has the commands.

@@ -1,0 +1,15 @@
+{
+  "name": "twa-ficha08",
+  "version": "1.0.0",
+  "description": "TWA Ficha 08 — a REST API over the catalog with Express 5 (in-memory array, JSON body, Router, middleware)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js",
+    "start": "node src/app.js",
+    "check": "node check.mjs"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
